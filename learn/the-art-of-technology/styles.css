@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    margin: 10% 0px 0px;;
+
+  }
+  
+  img {
+    max-height: 50%;
+    max-width: 50%;
+  }
+  
+  h1{
+    font-size: 80px;
+  }

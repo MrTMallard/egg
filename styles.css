@@ -1,0 +1,13 @@
+body{
+    background-color: #eefffc;
+    text-align: center;
+    color: #F26822;
+    font-family: sans-serif;
+    margin: 10% 0px 0px;
+  }
+  
+  img {
+    max-height: 50%;
+    max-width: 50%;
+  }
+  
